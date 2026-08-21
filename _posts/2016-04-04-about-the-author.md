@@ -4,7 +4,7 @@ title: "About"
 author: "Prasanthi Cottingham"
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: PXL_20231227_182326378.jpg
 ---
 
 .
